@@ -1,7 +1,5 @@
 # Biography
 
-I am Yaolong Ju, and I am a Ph.D candidate from Music Techlogy area, Schulich School of Music, McGill University. 
-
 Graduating from [Jilin University](https://www.jlu.edu.cn/) a computer science B.S., I achieved the M.S. from [Peking University](http://www.cis.pku.edu.cn/auditory/auditory.htm), where I was fortunate to engage in the research of music techology, an interdisciplinary field between music and computer science. During my master study, I discovered my passion for research and determined to pursue a doctoral study. 
 
 # Research
