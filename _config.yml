@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: Yaolong Ju
 description: 
   Ph.D. candidate from Schulich School of music, McGill University, Canada.
+
+# Google Analytics
+google_analytics: UA-123829920-1
