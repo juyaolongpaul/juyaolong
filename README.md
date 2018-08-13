@@ -1,4 +1,4 @@
-# Biography
+# Biography ([CV]())
 
 I am Yaolong Ju, and I am a Ph.D candidate from Music Techlogy area, Schulich School of Music, McGill University. 
 
@@ -8,36 +8,14 @@ Graduating from [Jilin University](https://www.jlu.edu.cn/) a computer science B
 
 Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libraries Lab](http://ddmal.music.mcgill.ca/). My primary research topic is automatic harmonic analysis, and I am generally interested in applied machine learning, music information retrieval, music theory, and digital music libraries as well.
 
-## Publications
+# Publications 
 
-### Markdown
+* Nathaniel Condit-Schultz, __Yaolong Ju__, and Ichiro Fujinaga. A Flexible Approach to automated Harmonic Analysis: Multiple Annotations of Chorales by Bach AND Praetorius. In *Proceedings of the 19th International Society for Music Information Retrieval Conference*, 2018. (Accepted)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* __Yaolong Ju__, Kate Helsen, “The LMLO goes MEI: An Exercise in Melodic Encoding Translation” Presented at the Music Encoding Conference, 2018
 
-```markdown
-Syntax highlighted code block
+* __Yaolong Ju__, Nathaniel Condit-Schultz, and Ichiro Fujinaga. Non-chord Tone Identification Using Deep Neural Networks. In *Proceedings of the 4th International Workshop on Digital Libraries for Musicology*,
+pp. 13–16. ACM, 2017
 
-# Header 1
-## Header 2
-### Header 3
+* Huang, Lan, Shixian Du, Yu Zhang, __Yaolong Ju__, and Zhuo Li. "K-means initial clustering center optimal algorithm based on Kruskal." *Journal of Information and Computational Science* 9, no. 9 (2012): 2387-2392.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juyaolongpaul/juyaolong/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
