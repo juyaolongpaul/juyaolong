@@ -1,4 +1,4 @@
-# Biography ([CV]())
+# Biography
 
 I am Yaolong Ju, and I am a Ph.D candidate from Music Techlogy area, Schulich School of Music, McGill University. 
 
