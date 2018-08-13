@@ -1,10 +1,10 @@
 # Biography
 
-Graduating from [Jilin University](https://www.jlu.edu.cn/) a computer science B.S., I achieved the M.S. from [Peking University](http://www.cis.pku.edu.cn/auditory/auditory.htm), where I was fortunate to engage in the research of music techology, an interdisciplinary field between music and computer science. During my master study, I discovered my passion for research and determined to pursue a doctoral study. 
+Graduating from [Jilin University](https://www.jlu.edu.cn/) as a computer science B.S., I achieved M.S. from [Peking University](http://www.cis.pku.edu.cn/auditory/auditory.htm), where I was fortunate to engage in the research of music techology, an interdisciplinary field between music and computer science. During my master study, I discovered my passion for research and determined to pursue a doctoral study. 
 
 # Research
 
-Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libraries Lab](http://ddmal.music.mcgill.ca/). My primary research topic is automatic harmonic analysis, and I am generally interested in applied machine learning, music information retrieval, music theory, and digital music libraries as well.
+Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libraries Lab](http://ddmal.music.mcgill.ca/). My primary research topic is automatic harmonic analysis, and I am generally interested in applied machine learning, music information retrieval, music theory, and digital music libraries.
 
 # Publications 
 
