@@ -1,8 +1,14 @@
 # Biography
 
-Yaolong Ju is currently a Ph.D candidate from Music Techlogy area, Schulich School of Music, Mcgill University. 
+I am Yaolong Ju, and I am a Ph.D candidate from Music Techlogy area, Schulich School of Music, McGill University. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Graduating from [Jilin University](https://www.jlu.edu.cn/) a computer science B.S., I achieved the M.S. from [Peking University](http://www.cis.pku.edu.cn/auditory/auditory.htm), where I was fortunate to engage in the research of music techology, an interdisciplinary field between music and computer science. During my master study, I discovered my passion for research and determined to pursue a doctoral study. 
+
+# Research
+
+Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libraries Lab](http://ddmal.music.mcgill.ca/). My primary research topic is automatic harmonic analysis, and I am generally interested in applied machine learning, music information retrieval, music theory, and digital music libraries as well.
+
+## Publications
 
 ### Markdown
 
