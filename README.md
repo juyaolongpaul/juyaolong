@@ -8,7 +8,7 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
 
 # Publications 
 
-* Nathaniel Condit-Schultz, __Yaolong Ju__, and Ichiro Fujinaga. A Flexible Approach to automated Harmonic Analysis: Multiple Annotations of Chorales by Bach AND Praetorius. In *Proceedings of the 19th International Society for Music Information Retrieval Conference*, pp. 66-73, 2018. (Accepted)
+* Nathaniel Condit-Schultz, __Yaolong Ju__, and Ichiro Fujinaga. [A Flexible Approach to automated Harmonic Analysis: Multiple Annotations of Chorales by Bach AND Praetorius](http://ismir2018.ircam.fr/doc/pdfs/283_Paper.pdf). In *Proceedings of the 19th International Society for Music Information Retrieval Conference*, pp. 66-73, 2018. (Accepted)
 
 * __Yaolong Ju__, Kate Helsen, [“The LMLO goes MEI: An Exercise in Melodic Encoding Translation”](https://drive.google.com/file/d/1-BKGfBQlGWAk_PXHPZeUyAUCjHvKH3Gv/view?usp=sharing) Presented at the Music Encoding Conference, 2018.
 
