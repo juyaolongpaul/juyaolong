@@ -7,10 +7,11 @@ Graduating from [Jilin University](https://www.jlu.edu.cn/) as a computer scienc
 Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libraries Lab](http://ddmal.music.mcgill.ca/). My primary research topic is automatic harmonic analysis, and I am generally interested in applied machine learning, music information retrieval, music theory, and digital music libraries.
 
 # Publications 
+* __Yaolong Ju__, Gustavo Polins Pedro, Cory Mckay, Emily Ann Hopkins, Julie Cumming, and Ichiro Fujinaga. Enabling Music Search and Analysis: A Database for Symbolic Music Files. Accepted by the *Music Encoding Conference*, 2019.
 
-* Nathaniel Condit-Schultz, __Yaolong Ju__, and Ichiro Fujinaga. [A Flexible Approach to automated Harmonic Analysis: Multiple Annotations of Chorales by Bach AND Praetorius](http://ismir2018.ircam.fr/doc/pdfs/283_Paper.pdf). In *Proceedings of the 19th International Society for Music Information Retrieval Conference*, pp. 66-73, 2018. (Accepted)
+* Nathaniel Condit-Schultz, __Yaolong Ju__, and Ichiro Fujinaga. [A Flexible Approach to automated Harmonic Analysis: Multiple Annotations of Chorales by Bach AND Praetorius](http://ismir2018.ircam.fr/doc/pdfs/283_Paper.pdf). In *Proceedings of the 19th International Society for Music Information Retrieval Conference*, pp. 66-73, 2018. 
 
-* __Yaolong Ju__, Kate Helsen, [“The LMLO goes MEI: An Exercise in Melodic Encoding Translation”](https://drive.google.com/file/d/1-BKGfBQlGWAk_PXHPZeUyAUCjHvKH3Gv/view?usp=sharing) Presented at the Music Encoding Conference, 2018.
+* __Yaolong Ju__, Kate Helsen, [“The LMLO goes MEI: An Exercise in Melodic Encoding Translation”](https://drive.google.com/file/d/1-BKGfBQlGWAk_PXHPZeUyAUCjHvKH3Gv/view?usp=sharing) Presented at the *Music Encoding Conference*, 2018.
 
 * __Yaolong Ju__, Nathaniel Condit-Schultz, and Ichiro Fujinaga. [Non-chord Tone Identification Using Deep Neural Networks](https://drive.google.com/file/d/1sL9bZCCNOYXuTUTTY9mQoubUMbrVptjO/view?usp=sharing). In *Proceedings of the 4th International Workshop on Digital Libraries for Musicology*,
 pp. 13–16. ACM, 2017.
