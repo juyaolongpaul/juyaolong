@@ -7,8 +7,8 @@ Graduating from [Jilin University](https://www.jlu.edu.cn/) as a computer scienc
 Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libraries Lab](http://ddmal.music.mcgill.ca/). My primary research topic is automatic harmonic analysis, and I am generally interested in applied machine learning, music information retrieval, music theory, and digital music libraries.
 
 # Publications 
-* __Yaolong Ju__, Samule Howes, Cory McKay, Nathaniel Condit-Schultz, Jorge Calvo-Zaragoza, and Ichiro Fujinaga. An interactive workflow for generating chord labels for homorhythmic music in symbolic formats. In *Proceedings of the 20th International Society for
-Music Information Retrieval Conference*, 2019 (submitted).
+* __Yaolong Ju__, Samule Howes, Cory McKay, Nathaniel Condit-Schultz, Jorge Calvo-Zaragoza, and Ichiro Fujinaga. An interactive workflow for generating chord labels for homorhythmic music in symbolic formats. Accepted by the *Proceedings of the 20th International Society for
+Music Information Retrieval Conference*, 2019.
 
 * __Yaolong Ju__, Gustavo Polins Pedro, Cory Mckay, Emily Ann Hopkins, Julie Cumming, and Ichiro Fujinaga. Enabling Music Search and Analysis: A Database for Symbolic Music Files. Accepted for presentation at the *Music Encoding Conference*, 2019.
 
