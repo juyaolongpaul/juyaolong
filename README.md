@@ -12,7 +12,7 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
 
 * Condit-Schultz, Nathaniel, __Yaolong Ju__, and Ichiro Fujinaga. 2018. [A Flexible Approach to Automated Harmonic Analysis: Multiple Annotations of Chorales by Bach AND Praetorius](http://ismir2018.ircam.fr/doc/pdfs/283_Paper.pdf). In *Proceedings of the 19th International Society for Music Information Retrieval Conference*, 66-73. 
 
-* __Ju, Yaolong__, Nathaniel Condit-Schultz, and Ichiro Fujinaga. 2017. [Non-chord Tone Identification Using Deep Neural Networks](https://drive.google.com/file/d/1sL9bZCCNOYXuTUTTY9mQoubUMbrVptjO/view?usp=sharing). In *Proceedings of the 4th International Workshop on Digital Libraries for Musicology*,
+* __Ju, Yaolong__, Nathaniel Condit-Schultz, and Ichiro Fujinaga. 2017. [Non-chord Tone Identification Using Deep Neural Networks](https://github.com/juyaolongpaul/juyaolong/blob/master/publications/p13-Ju.pdf). In *Proceedings of the 4th International Workshop on Digital Libraries for Musicology*,
 13–16. ACM.
 
 * Lan, Huang, Shixian Du, Yu Zhang, __Yaolong Ju__, and Zhuo Li. K-means initial clustering center optimal algorithm based on Kruskal. *Journal of Information and Computational Science* 9, no. 9 (2012): 2387-2392.
