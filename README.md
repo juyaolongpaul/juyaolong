@@ -12,7 +12,7 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
 
 * Condit-Schultz, Nathaniel, __Yaolong Ju__, and Ichiro Fujinaga. 2018. [A Flexible Approach to Automated Harmonic Analysis: Multiple Annotations of Chorales by Bach AND Praetorius](http://ismir2018.ircam.fr/doc/pdfs/283_Paper.pdf). In *Proceedings of the 19th International Society for Music Information Retrieval Conference*, 66-73. 
 
-* __Ju, Yaolong__, Nathaniel Condit-Schultz, and Ichiro Fujinaga. 2017. [Non-chord Tone Identification Using Deep Neural Networks](https://github.com/juyaolongpaul/juyaolong/blob/master/publications/p13-Ju.pdf). In *Proceedings of the 4th International Workshop on Digital Libraries for Musicology*,
+* __Ju, Yaolong__, Nathaniel Condit-Schultz, and Ichiro Fujinaga. 2017. [Non-chord Tone Identification Using Deep Neural Networks](https://clairearthur.com/wp-content/uploads/2018/10/p13-Ju.pdf). In *Proceedings of the 4th International Workshop on Digital Libraries for Musicology*,
 13–16. ACM.
 
 * Lan, Huang, Shixian Du, Yu Zhang, __Yaolong Ju__, and Zhuo Li. K-means initial clustering center optimal algorithm based on Kruskal. *Journal of Information and Computational Science* 9, no. 9 (2012): 2387-2392.
@@ -20,7 +20,7 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
 # Peer-Reviewed Academic Conference Presentations (No Proceedings)
 * __Ju, Yaolong__, Sylvain Margot, Cory McKay, and Ichiro Fujinaga. 2020. [Figured Bass Encodings for Bach Chorales in Various Symbolic Formats: A Case Study](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20figured.pdf). Presented at the *Music Encoding Conference*.
 
-* Hopkins, Emily, __Yaolong Ju__, Gustavo Polins Pedro, Cory McKay, Julie Cumming, and Ichiro Fujinaga. 2019. SIMSSA DB: Symbolic Music Discovery and Search. Poster presentation at the *6th International Workshop on Digital Libraries for Musicology*. 
+* Hopkins, Emily, __Yaolong Ju__, Gustavo Polins Pedro, Cory McKay, Julie Cumming, and Ichiro Fujinaga. 2019. [SIMSSA DB: Symbolic Music Discovery and Search](http://www.music.mcgill.ca/~cmckay/papers/musictech/hopkins19simssadb.pdf). Poster presentation at the *6th International Workshop on Digital Libraries for Musicology*. 
 
 * __Ju, Yaolong__, Gustavo Polins Pedro, Cory Mckay, Emily Ann Hopkins, Julie Cumming, and Ichiro Fujinaga. 2019. [Enabling Music Search and Analysis: A Database for Symbolic Music Files](https://drive.google.com/file/d/1sH8-Ih8ugQigXRj-W5V3Ftthx83inIIL/view?usp=sharing). Presented at the *Music Encoding Conference*.
 
