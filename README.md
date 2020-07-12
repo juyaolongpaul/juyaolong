@@ -32,6 +32,6 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
 
 * __Ju, Yaolong__, and Kate Helsen. 2018. [The LMLO goes MEI: An Exercise in Melodic Encoding Translation](https://drive.google.com/file/d/1-BKGfBQlGWAk_PXHPZeUyAUCjHvKH3Gv/view?usp=sharing) Presented at the *Music Encoding Conference*.
 
-* __Ju, Yaolong__, Nathaniel Condit-Schultz, Claire Arthur and Ichiro Fujinaga. 2017. Non-chord Tone Identification Using Deep Neural Networks. Presented as Late Breaking Demo at the *18th International Society for Music Information Retrieval
+* __Ju, Yaolong__, Nathaniel Condit-Schultz, Claire Arthur and Ichiro Fujinaga. 2017. [Non-chord Tone Identification Using Deep Neural Networks](https://simssa.ca/assets/files/Ju2017.pdf). Presented as Late Breaking Demo at the *18th International Society for Music Information Retrieval
 Conference*. 
 
