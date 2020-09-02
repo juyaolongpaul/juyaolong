@@ -11,7 +11,7 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
 
 * __Ju, Yaolong__, Sylvain Margot, Cory McKay, Luke Dahn, and Ichiro Fujinaga. 2020. Automatic Figured Bass Annotation Using the New Bach Chorales Figured Bass Dataset. In *Proceedings of the 21th International Society for Music Information Retrieval Conference*. Accepted. 
 
-* __Ju, Yaolong__, Sylvain Margot, Samuel Howes, Néstor Nápoles López, Laurent Feisthauer, Finn Upham, Jacob deGroot-Maggetti, Timothy Raja de Reuse, and Suzuka Kokubu. 2020. Data Quality Matters: Iterative Corrections on a Corpus of Mendelssohn String Quartets and Implications for MIR Analysis. In *Proceedings of the 21th International Society for Music Information Retrieval Conference*. Accepted. 
+* Jacob deGroot-Maggetti, Timothy Raja de Reuse, Laurent Feisthauer, Samuel Howes, __Yaolong Ju__, Suzuka Kokubu, Sylvain Margot, Néstor Nápoles López, and Finn Upham. (equal contributions) 2020. Data Quality Matters: Iterative Corrections on a Corpus of Mendelssohn String Quartets and Implications for MIR Analysis. In *Proceedings of the 21th International Society for Music Information Retrieval Conference*. Accepted. 
 
 * __Ju, Yaolong__, Samule Howes, Cory McKay, Nathaniel Condit-Schultz, Jorge Calvo-Zaragoza, and Ichiro Fujinaga. 2019. [An Interactive Workflow for Generating Chord Labels for Homorhythmic Music in Symbolic Formats](http://archives.ismir.net/ismir2019/paper/000106.pdf). In *Proceedings of the 20th International Society for Music Information Retrieval Conference*, 862–869.
 
