@@ -7,11 +7,11 @@ Graduating from [Jilin University](https://www.jlu.edu.cn/) as a computer scienc
 Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libraries Lab](http://ddmal.music.mcgill.ca/). My primary research topic is automatic harmonic analysis, and I am generally interested in applied machine learning, music information retrieval, music theory, and digital music libraries.
 
 # Peer-Reviewed Academic Conference Publications 
-* __Ju, Yaolong__, Sylvain Margot, Cory McKay, and Ichiro Fujinaga. 2020. Automatic Chord Labelling: A Figured Bass Approach. In *Proceedings of the 7th International Workshop on Digital Libraries for Musicology*. Accepted. 
+*  __Ju, Yaolong__, Sylvain Margot, Cory McKay, Luke Dahn, and Ichiro Fujinaga. 2020. [Automatic Figured Bass Annotation Using the New Bach Chorales Figured Bass Dataset](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20automatic.pdf). In *Proceedings of the 21th International Society for Music Information Retrieval Conference*, 640–646.
 
-* __Ju, Yaolong__, Sylvain Margot, Cory McKay, Luke Dahn, and Ichiro Fujinaga. 2020. Automatic Figured Bass Annotation Using the New Bach Chorales Figured Bass Dataset. In *Proceedings of the 21th International Society for Music Information Retrieval Conference*. Accepted. 
+*  __Ju, Yaolong__, Sylvain Margot, Cory McKay, and Ichiro Fujinaga. 2020. [Automatic Chord Labelling: A Figured Bass Approach](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20automaticchord.pdf). In *Proceedings of the 7th International Workshop on Digital Libraries for Musicology*, 27–31.
 
-* Jacob deGroot-Maggetti, Timothy Raja de Reuse, Laurent Feisthauer, Samuel Howes, __Yaolong Ju__, Suzuka Kokubu, Sylvain Margot, Néstor Nápoles López, and Finn Upham. (equal contributions) 2020. Data Quality Matters: Iterative Corrections on a Corpus of Mendelssohn String Quartets and Implications for MIR Analysis. In *Proceedings of the 21th International Society for Music Information Retrieval Conference*. Accepted. 
+* Jacob deGroot-Maggetti, Timothy Raja de Reuse, Laurent Feisthauer, Samuel Howes, __Yaolong Ju__, Suzuka Kokubu, Sylvain Margot, Néstor Nápoles López, and Finn Upham. (equal contributions) 2020. [Data Quality Matters: Iterative Corrections on a Corpus of Mendelssohn String Quartets and Implications for MIR Analysis](https://program.ismir2020.net/static/final_papers/235.pdf). In *Proceedings of the 21th International Society for Music Information Retrieval Conference*, 432–438. 
 
 * __Ju, Yaolong__, Samule Howes, Cory McKay, Nathaniel Condit-Schultz, Jorge Calvo-Zaragoza, and Ichiro Fujinaga. 2019. [An Interactive Workflow for Generating Chord Labels for Homorhythmic Music in Symbolic Formats](http://archives.ismir.net/ismir2019/paper/000106.pdf). In *Proceedings of the 20th International Society for Music Information Retrieval Conference*, 862–869.
 
