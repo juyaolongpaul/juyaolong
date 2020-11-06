@@ -5,6 +5,7 @@ Graduating from [Jilin University](https://www.jlu.edu.cn/) as a computer scienc
 Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libraries Lab](http://ddmal.music.mcgill.ca/). My primary research topic is automatic harmonic analysis, and I am generally interested in applied machine learning, music information retrieval, music theory, and digital music libraries. I was recently hired by [Tencent Music Entertainment](https://www.tencentmusic.com/en-us/) as a Senior Researcher to develop AI music applications for QQ Music in 2021.
 
 # Education
+
 * Jilin University (JLU), Changchun, China (Sep. 2009–July 2013)
   * B.S. in School of Computer Science and Technology
   * Major: Computer Science and Technology
@@ -23,7 +24,9 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
   * Thesis: Addressing Ambiguity in Machine Learning: A Case Study in Automatic Chord Labelling (Upcoming) 
   * Supervisors: Prof. Ichiro Fujinaga and Prof. Cory McKay
   * GPA: 3.90/4.00
+  
 # Selected Awards and Honors
+
 * Jilin University
   * National Grant (Oct. 2010)
   * Self-reliance and Independent Student Honor (May 2011)
