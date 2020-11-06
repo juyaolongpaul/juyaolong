@@ -7,18 +7,23 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
 # Education
 
 * Jilin University (JLU), Changchun, China (Sep. 2009–July 2013)
+
   * B.S. in School of Computer Science and Technology
   * Major: Computer Science and Technology
   * Thesis: The Research of Automatic Music Arrangement (Honors)
   * Advisor: Prof. Lan Huang 
   * GPA: 3.73/4.00, recommended for admission of Peking University for graduate study
+  
 * Peking University, Beijing, China (Sep. 2013–July 2016)
+
   * M.S. in School of Electronics Engineering and Computer Science
   * Major: Intelligence Science and Technology
   * Thesis: Research on Automatic Chord Arrangement Based on Deep Recurrent Neural Networks
   * Supervisor: Prof. Xihong Wu
   * GPA: 3.62/4.00
+  
 * McGill University, Montreal, Canada (Sep. 2016–PRESENT)
+
   * Ph.D. in Schulich School of Music
   * Major: Music Technology
   * Thesis: Addressing Ambiguity in Machine Learning: A Case Study in Automatic Chord Labelling (Upcoming) 
@@ -36,10 +41,14 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
   * Tep 100 Outstanding Students of CCF in 2012 (Oct. 2012)
   * Xianzi Zeng Educational Fund (2011–2013)
   * Nominee of Top 10 Outstanding Student of Jilin University in 2012 (Oct. 2012)
+  
 * Peking University
+
   * Graduate Special Scholarship (Oct. 2014)
   * Graduate Fellowship (2013–2015)
+  
 * McGill University
+
   * CIRMMT Agile Seed Funding (Nov. 2019)
   * Interdisciplinary Research Project Seed Grant (June 2017, June 2019)
   * Graduate Excellent Award (Nov. 2016, Jan. 2018)
@@ -53,6 +62,7 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
   * Fonds de Recherche du Québec-Société et Culture (FRQSC) Doctoral Scholarship (2018–2022)
 
 # Peer-Reviewed Academic Conference Publications 
+
 *  __Ju, Yaolong__, Sylvain Margot, Cory McKay, Luke Dahn, and Ichiro Fujinaga. 2020. [Automatic Figured Bass Annotation Using the New Bach Chorales Figured Bass Dataset](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20automatic.pdf). In *Proceedings of the 21th International Society for Music Information Retrieval Conference*, 640–646.
 
 *  __Ju, Yaolong__, Sylvain Margot, Cory McKay, and Ichiro Fujinaga. 2020. [Automatic Chord Labelling: A Figured Bass Approach](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20automaticchord.pdf). In *Proceedings of the 7th International Workshop on Digital Libraries for Musicology*, 27–31.
@@ -69,6 +79,7 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
 * Lan, Huang, Shixian Du, Yu Zhang, __Yaolong Ju__, and Zhuo Li. K-means initial clustering center optimal algorithm based on Kruskal. *Journal of Information and Computational Science* 9, no. 9 (2012): 2387-2392.
 
 # Peer-Reviewed Academic Conference Presentations (No Proceedings)
+
 * __Ju, Yaolong__, Sylvain Margot, Cory McKay, and Ichiro Fujinaga. 2020. [Figured Bass Encodings for Bach Chorales in Various Symbolic Formats: A Case Study](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20figured.pdf). Presented at the *Music Encoding Conference*.
 
 * Hopkins, Emily, __Yaolong Ju__, Gustavo Polins Pedro, Cory McKay, Julie Cumming, and Ichiro Fujinaga. 2019. [SIMSSA DB: Symbolic Music Discovery and Search](http://www.music.mcgill.ca/~cmckay/papers/musictech/hopkins19simssadb.pdf). Poster presentation at the *6th International Workshop on Digital Libraries for Musicology*. 
