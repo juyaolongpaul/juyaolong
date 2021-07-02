@@ -38,7 +38,7 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
   * National Encouragement Scholarship (2010–2012)
   * School Outstanding Student (2010–2012)
   * Chinese Computer Federation (CCF) Scholarship (Oct. 2012)
-  * Tep 100 Outstanding Students of CCF in 2012 (Oct. 2012)
+  * Top 100 Outstanding Students of CCF in 2012 (Oct. 2012)
   * Xianzi Zeng Educational Fund (2011–2013)
   * Nominee of Top 10 Outstanding Student of Jilin University in 2012 (Oct. 2012)
   
