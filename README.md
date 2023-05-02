@@ -65,33 +65,33 @@ In 2021, I obtained a Ph.D. degree (music technology) from [Distributed Digital 
 
 *  Li, Chenyi, Yi Li, Xuhao Du, __Yaolong Ju__, Shichao Hu, and Zhiyong Wu. [VocEmb4SVS: Improving Singing Voice Separation with Vocal Embeddings.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9980293) In *2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, pp. 234-239. IEEE, 2022.
 
-*  __Ju, Yaolong__, Sylvain Margot, Cory McKay, Luke Dahn, and Ichiro Fujinaga. 2020. [Automatic Figured Bass Annotation Using the New Bach Chorales Figured Bass Dataset](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20automatic.pdf). In *Proceedings of the 21th International Society for Music Information Retrieval Conference*, 640–646.
+*  __Yaolong Ju__, Sylvain Margot, Cory McKay, Luke Dahn, and Ichiro Fujinaga. 2020. [Automatic Figured Bass Annotation Using the New Bach Chorales Figured Bass Dataset](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20automatic.pdf). In *Proceedings of the 21th International Society for Music Information Retrieval Conference*, 640–646.
 
-*  __Ju, Yaolong__, Sylvain Margot, Cory McKay, and Ichiro Fujinaga. 2020. [Automatic Chord Labelling: A Figured Bass Approach](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20automaticchord.pdf). In *Proceedings of the 7th International Workshop on Digital Libraries for Musicology*, 27–31.
+*  __Yaolong Ju__, Sylvain Margot, Cory McKay, and Ichiro Fujinaga. 2020. [Automatic Chord Labelling: A Figured Bass Approach](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20automaticchord.pdf). In *Proceedings of the 7th International Workshop on Digital Libraries for Musicology*, 27–31.
 
 * Jacob deGroot-Maggetti, Timothy Raja de Reuse, Laurent Feisthauer, Samuel Howes, __Yaolong Ju__, Suzuka Kokubu, Sylvain Margot, Néstor Nápoles López, and Finn Upham. (equal contributions) 2020. [Data Quality Matters: Iterative Corrections on a Corpus of Mendelssohn String Quartets and Implications for MIR Analysis](https://program.ismir2020.net/static/final_papers/235.pdf). In *Proceedings of the 21th International Society for Music Information Retrieval Conference*, 432–438. 
 
-* __Ju, Yaolong__, Samule Howes, Cory McKay, Nathaniel Condit-Schultz, Jorge Calvo-Zaragoza, and Ichiro Fujinaga. 2019. [An Interactive Workflow for Generating Chord Labels for Homorhythmic Music in Symbolic Formats](http://archives.ismir.net/ismir2019/paper/000106.pdf). In *Proceedings of the 20th International Society for Music Information Retrieval Conference*, 862–869.
+* __Yaolong Ju__, Samule Howes, Cory McKay, Nathaniel Condit-Schultz, Jorge Calvo-Zaragoza, and Ichiro Fujinaga. 2019. [An Interactive Workflow for Generating Chord Labels for Homorhythmic Music in Symbolic Formats](http://archives.ismir.net/ismir2019/paper/000106.pdf). In *Proceedings of the 20th International Society for Music Information Retrieval Conference*, 862–869.
 
 * Condit-Schultz, Nathaniel, __Yaolong Ju__, and Ichiro Fujinaga. 2018. [A Flexible Approach to Automated Harmonic Analysis: Multiple Annotations of Chorales by Bach AND Praetorius](http://ismir2018.ircam.fr/doc/pdfs/283_Paper.pdf). In *Proceedings of the 19th International Society for Music Information Retrieval Conference*, 66-73. 
 
-* __Ju, Yaolong__, Nathaniel Condit-Schultz, and Ichiro Fujinaga. 2017. [Non-chord Tone Identification Using Deep Neural Networks](https://clairearthur.com/wp-content/uploads/2018/10/p13-Ju.pdf). In *Proceedings of the 4th International Workshop on Digital Libraries for Musicology*,
+* __Yaolong Ju__, Nathaniel Condit-Schultz, and Ichiro Fujinaga. 2017. [Non-chord Tone Identification Using Deep Neural Networks](https://clairearthur.com/wp-content/uploads/2018/10/p13-Ju.pdf). In *Proceedings of the 4th International Workshop on Digital Libraries for Musicology*,
 13–16. ACM.
 
 * Lan, Huang, Shixian Du, Yu Zhang, __Yaolong Ju__, and Zhuo Li. K-means initial clustering center optimal algorithm based on Kruskal. *Journal of Information and Computational Science* 9, no. 9 (2012): 2387-2392.
 
 # Peer-Reviewed Academic Conference Presentations (No Proceedings)
 
-* __Ju, Yaolong__, Sylvain Margot, Cory McKay, and Ichiro Fujinaga. 2020. [Figured Bass Encodings for Bach Chorales in Various Symbolic Formats: A Case Study](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20figured.pdf). Presented at the *Music Encoding Conference*.
+* __Yaolong Ju__, Sylvain Margot, Cory McKay, and Ichiro Fujinaga. 2020. [Figured Bass Encodings for Bach Chorales in Various Symbolic Formats: A Case Study](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20figured.pdf). Presented at the *Music Encoding Conference*.
 
 * Hopkins, Emily, __Yaolong Ju__, Gustavo Polins Pedro, Cory McKay, Julie Cumming, and Ichiro Fujinaga. 2019. [SIMSSA DB: Symbolic Music Discovery and Search](http://www.music.mcgill.ca/~cmckay/papers/musictech/hopkins19simssadb.pdf). Poster presentation at the *6th International Workshop on Digital Libraries for Musicology*. 
 
-* __Ju, Yaolong__, Gustavo Polins Pedro, Cory Mckay, Emily Ann Hopkins, Julie Cumming, and Ichiro Fujinaga. 2019. [Enabling Music Search and Analysis: A Database for Symbolic Music Files](https://drive.google.com/file/d/1sH8-Ih8ugQigXRj-W5V3Ftthx83inIIL/view?usp=sharing). Presented at the *Music Encoding Conference*.
+* __Yaolong Ju__, Gustavo Polins Pedro, Cory Mckay, Emily Ann Hopkins, Julie Cumming, and Ichiro Fujinaga. 2019. [Enabling Music Search and Analysis: A Database for Symbolic Music Files](https://drive.google.com/file/d/1sH8-Ih8ugQigXRj-W5V3Ftthx83inIIL/view?usp=sharing). Presented at the *Music Encoding Conference*.
 
 * McKay, Cory, Emily Hopkins, Gustavo Polins Pedro, __Yaolong Ju__, Andrew Kam, Julie Cumming, and Ichiro Fujinaga. 2019. [A collaborative symbolic music database for computational research on music](https://drive.google.com/file/d/1gB4u0MaE7Ku5jYHS12eORit5v4V8gNE2/view?usp=sharing). Presented at the *Medieval and Renaissance Music Conference*.
 
-* __Ju, Yaolong__, and Kate Helsen. 2018. [The LMLO goes MEI: An Exercise in Melodic Encoding Translation](https://drive.google.com/file/d/1-BKGfBQlGWAk_PXHPZeUyAUCjHvKH3Gv/view?usp=sharing) Presented at the *Music Encoding Conference*.
+* __Yaolong Ju__, and Kate Helsen. 2018. [The LMLO goes MEI: An Exercise in Melodic Encoding Translation](https://drive.google.com/file/d/1-BKGfBQlGWAk_PXHPZeUyAUCjHvKH3Gv/view?usp=sharing) Presented at the *Music Encoding Conference*.
 
-* __Ju, Yaolong__, Nathaniel Condit-Schultz, Claire Arthur and Ichiro Fujinaga. 2017. [Non-chord Tone Identification Using Deep Neural Networks](https://simssa.ca/assets/files/Ju2017.pdf). Presented as Late Breaking Demo at the *18th International Society for Music Information Retrieval
+* __Yaolong Ju__, Nathaniel Condit-Schultz, Claire Arthur and Ichiro Fujinaga. 2017. [Non-chord Tone Identification Using Deep Neural Networks](https://simssa.ca/assets/files/Ju2017.pdf). Presented as Late Breaking Demo at the *18th International Society for Music Information Retrieval
 Conference*. 
 
