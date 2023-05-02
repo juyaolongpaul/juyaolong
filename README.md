@@ -2,7 +2,7 @@
 
 Graduating from [Jilin University](https://www.jlu.edu.cn/) as a computer science B.S., I achieved M.S. from [Peking University](http://www.cis.pku.edu.cn/auditory/auditory.htm), where I was fortunate to engage in the research of music techology, an interdisciplinary field between music and computer science. During my master study, I discovered my passion for research and determined to pursue a doctoral study. 
 
-Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libraries Lab](http://ddmal.music.mcgill.ca/). My primary research topic is automatic harmonic analysis, and I am generally interested in applied machine learning, music information retrieval, music theory, and digital music libraries. I was recently hired by [Tencent Music Entertainment](https://www.tencentmusic.com/en-us/) as a Senior Researcher to develop AI music applications for QQ Music (expected in 2021).
+In 2021, I obtained a Ph.D. degree (music technology) from [Distributed Digital Music Archives & Libraries Lab](http://ddmal.music.mcgill.ca/) at [McGill University](https://www.mcgill.ca/). My primary research topic is automatic harmonic analysis, and I am generally interested in applied machine learning, music information retrieval, music theory, and digital music libraries. I used to work at [Tencent Music Entertainment](https://www.tencentmusic.com/en-us/) as a Senior Researcher to develop AI music applications for QQ Music (2020-2022), and now I am a principal engineer at Huawei 2012 Laboratory managing relevant music research/application projects. 
 
 # Education
 
@@ -22,11 +22,11 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
   * Supervisor: Prof. Xihong Wu
   * GPA: 3.62/4.00
   
-* McGill University, Montreal, Canada (Sep. 2016–PRESENT)
+* McGill University, Montreal, Canada (Sep. 2016–2021)
 
   * Ph.D. in Schulich School of Music
   * Major: Music Technology
-  * Thesis: Addressing Ambiguity in Machine Learning: A Case Study in Automatic Chord Labelling (Upcoming) 
+  * Thesis: [Addressing Ambiguity in Machine Learning: A Case Study in Automatic Chord Labelling](https://escholarship.mcgill.ca/downloads/pk02cg572)
   * Supervisors: Prof. Ichiro Fujinaga and Prof. Cory McKay
   * GPA: 3.90/4.00
   
@@ -55,13 +55,15 @@ Currently, I am a Ph.D. student from [Distributed Digital Music Archives & Libra
   * Graduate Travel Award (Nov. 2020)
   * CIRMMT Travel Award (July 2017, Mar. 2018, Mar. 2019, Mar. 2020)
   * CIRMMT Student Award (Mar. 2018, Mar. 2020)
-  * International Society for Music Information Retrieval Conference Paper Reviewer (June 2020)
+  * International Society for Music Information Retrieval Conference Paper Reviewer (2020–2023, best reviewer in 2021)
   * International Society for Music Information Retrieval Conference Event Coordinator (Sep. 2020)
   * CIRMMT Student Representatives for Research Axis 2 (Music Information Retrieval) (2017–2021)
   * Annual Research Assistant Stipend (2016–2020)
   * Fonds de Recherche du Québec-Société et Culture (FRQSC) Doctoral Scholarship (2018–2022)
 
 # Peer-Reviewed Academic Conference Publications 
+
+*  Li, Chenyi, Yi Li, Xuhao Du, __Yaolong Ju__, Shichao Hu, and Zhiyong Wu. [VocEmb4SVS: Improving Singing Voice Separation with Vocal Embeddings.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9980293) In *2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, pp. 234-239. IEEE, 2022.
 
 *  __Ju, Yaolong__, Sylvain Margot, Cory McKay, Luke Dahn, and Ichiro Fujinaga. 2020. [Automatic Figured Bass Annotation Using the New Bach Chorales Figured Bass Dataset](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20automatic.pdf). In *Proceedings of the 21th International Society for Music Information Retrieval Conference*, 640–646.
 
