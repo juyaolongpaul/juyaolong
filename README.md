@@ -63,6 +63,8 @@ In 2021, I obtained a Ph.D. degree (music technology) from [Distributed Digital 
 
 # Peer-Reviewed Academic Conference Publications 
 
+*   __Yaolong Ju__, Chunyang Xu, Yichen Guo, Jinhu Li, and Simon Lui. Improving Automatic Singing Skill Evaluation with Timbral Features, Attention, and Singing Voice Separation. In *IEEE International Conference on Multimedia and Expo (ICME)*, 2023 (to appear). 
+
 *  Li, Chenyi, Yi Li, Xuhao Du, __Yaolong Ju__, Shichao Hu, and Zhiyong Wu. [VocEmb4SVS: Improving Singing Voice Separation with Vocal Embeddings.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9980293) In *2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, pp. 234-239. IEEE, 2022.
 
 *  __Yaolong Ju__, Sylvain Margot, Cory McKay, Luke Dahn, and Ichiro Fujinaga. 2020. [Automatic Figured Bass Annotation Using the New Bach Chorales Figured Bass Dataset](http://www.music.mcgill.ca/~cmckay/papers/musictech/ju20automatic.pdf). In *Proceedings of the 21th International Society for Music Information Retrieval Conference*, 640–646.
