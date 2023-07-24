@@ -1,6 +1,6 @@
 # Introduction
 
-Graduating from [Jilin University](https://www.jlu.edu.cn/) as a computer science B.S., I achieved M.S. from [Peking University](http://www.cis.pku.edu.cn/auditory/auditory.htm), where I was fortunate to engage in the research of music techology, an interdisciplinary field between music and computer science. During my master study, I discovered my passion for research and determined to pursue a doctoral study. 
+Graduating from [Jilin University](https://www.jlu.edu.cn/) as a computer science B.S., I achieved M.S. from [Peking University](http://www.cis.pku.edu.cn/auditory/auditory.htm), where I was fortunate to engage in the research of music technology, an interdisciplinary field between music and computer science. During my master study, I discovered my passion for research and determined to pursue a doctoral study. 
 
 In 2021, I obtained a Ph.D. degree (music technology) from [Distributed Digital Music Archives & Libraries Lab](http://ddmal.music.mcgill.ca/) at [McGill University](https://www.mcgill.ca/). My primary research topic is automatic harmonic analysis, and I am generally interested in applied machine learning, music information retrieval, music theory, and digital music libraries. I used to work at [Tencent Music Entertainment](https://www.tencentmusic.com/en-us/) as a Senior Researcher to develop AI music applications for QQ Music (2020-2022), and now I am a principal engineer at Huawei 2012 Laboratory, [Central Media Technology Institute](https://www.bilibili.com/video/BV1PF411T7Tu/) leading relevant music research/application projects. 
 
@@ -63,7 +63,7 @@ In 2021, I obtained a Ph.D. degree (music technology) from [Distributed Digital 
 
 # Peer-Reviewed Academic Conference Publications 
 
-*   __Yaolong Ju__, Chunyang Xu, Yichen Guo, Jinhu Li, and Simon Lui. Improving Automatic Singing Skill Evaluation with Timbral Features, Attention, and Singing Voice Separation. In *IEEE International Conference on Multimedia and Expo (ICME)*, 2023 (to appear). 
+*   __Yaolong Ju__, Chunyang Xu, Yichen Guo, Jinhu Li, and Simon Lui. Improving Automatic Singing Skill Evaluation with Timbral Features, Attention, and Singing Voice Separation. In *IEEE International Conference on Multimedia and Expo (ICME)*, pp. 612-617, 2023 (to appear). 
 
 *  Li, Chenyi, Yi Li, Xuhao Du, __Yaolong Ju__, Shichao Hu, and Zhiyong Wu. [VocEmb4SVS: Improving Singing Voice Separation with Vocal Embeddings.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9980293) In *2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, pp. 234-239. IEEE, 2022.
 
