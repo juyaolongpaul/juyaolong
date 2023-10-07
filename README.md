@@ -63,7 +63,7 @@ In 2021, I obtained a Ph.D. degree (music technology) from [Distributed Digital 
 
 # Peer-Reviewed Academic Conference Publications 
 
-*   __Yaolong Ju__, Chunyang Xu, Yichen Guo, Jinhu Li, and Simon Lui. Improving Automatic Singing Skill Evaluation with Timbral Features, Attention, and Singing Voice Separation. In *IEEE International Conference on Multimedia and Expo (ICME)*, pp. 612-617, 2023 (to appear). 
+*   __Yaolong Ju__, Chunyang Xu, Yichen Guo, Jinhu Li, and Simon Lui. [Improving Automatic Singing Skill Evaluation with Timbral Features, Attention, and Singing Voice Separation.](https://ieeexplore.ieee.org/abstract/document/10219750) In *IEEE International Conference on Multimedia and Expo (ICME)*, pp. 612-617, 2023. 
 
 *  Li, Chenyi, Yi Li, Xuhao Du, __Yaolong Ju__, Shichao Hu, and Zhiyong Wu. [VocEmb4SVS: Improving Singing Voice Separation with Vocal Embeddings.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9980293) In *2022 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, pp. 234-239. IEEE, 2022.
 
