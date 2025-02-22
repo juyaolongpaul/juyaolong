@@ -67,7 +67,7 @@ In 2021, I obtained a Ph.D. degree (music technology) from [Distributed Digital 
 
 * Deng, Jiajun, __Yaolong Ju__, Jing Yang, Simon Lui, and Xunying Liu. [Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with Self-supervised Learning Features](https://ismir2024program.ismir.net/poster_48.html). In *Proceedings of the 25th International Society for Music Information Retrieval Conference (ISMIR)*, pp. 343-351, 2024. 
 
-* Wu, Yulun, __Yaolong Ju__, Simon Lui, Jing Yang, Fan Fan, Xuhao Du. [Cycle Frequency-Harmonic-Time Transformer for note-level singing voice transcription.](https://arxiv.org/abs/2401.07532) In *Proceedings of the IEEE International Conference on Multimedia and Expo (ICME)*, pp. 1-6, 2024. 
+* Wu, Yulun, __Yaolong Ju__, Simon Lui, Jing Yang, Fan Fan, Xuhao Du. [Cycle Frequency-Harmonic-Time Transformer for note-level singing voice transcription.](https://ieeexplore.ieee.org/abstract/document/10687517) In *Proceedings of the IEEE International Conference on Multimedia and Expo (ICME)*, pp. 1-6, 2024. 
 
 *   Zhiwei Lin, Jun Chen, Boshi Tang, Binzhu Sha, Jing Yang, __Yaolong Ju__, Fan Fan, Shiyin Kang, Zhiyong Wu, Helen Meng. [Multi-view MidiVAE: Fusing Track-and Bar-view Representations for Long Multi-track Symbolic Music Generation.](https://arxiv.org/abs/2401.07532) In *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, pp. 941-945, 2024. 
 
