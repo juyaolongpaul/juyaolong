@@ -63,6 +63,12 @@ In 2021, I obtained a Ph.D. degree (music technology) from [Distributed Digital 
 
 # Peer-Reviewed Academic Conference Publications 
 
+ * __Ju, Yaolong__, Chun Yat Wu, Betty Cortiñas Lorenzo, Jing Yang, Jiajun Deng, Fan Fan, and Simon Lui. [End-to-end automatic singing skill evaluation using cross-attention and data augmentation for solo singing and singing with accompaniment](https://ismir2024program.ismir.net/poster_89.html). In *Proceedings of the 25th International Society for Music Information Retrieval Conference (ISMIR)*, pp. 493-500, 2024.
+
+* Deng, Jiajun, __Yaolong Ju__, Jing Yang, Simon Lui, and Xunying Liu. [Efficient Adapter Tuning for Joint Singing Voice Beat and Downbeat Tracking with Self-supervised Learning Features](https://ismir2024program.ismir.net/poster_48.html). In *Proceedings of the 25th International Society for Music Information Retrieval Conference (ISMIR)*, pp. 343-351, 2024. 
+
+* Wu, Yulun, __Yaolong Ju__, Simon Lui, Jing Yang, Fan Fan, Xuhao Du. [Multi-view MidiVAE: Fusing Track-and Bar-view Representations for Long Multi-track Symbolic Music Generation.](https://arxiv.org/abs/2401.07532) In *Proceedings of the IEEE International Conference on Multimedia and Expo (ICME)*, pp. 1-6, 2024. 
+
 *   Zhiwei Lin, Jun Chen, Boshi Tang, Binzhu Sha, Jing Yang, __Yaolong Ju__, Fan Fan, Shiyin Kang, Zhiyong Wu, Helen Meng. [Multi-view MidiVAE: Fusing Track-and Bar-view Representations for Long Multi-track Symbolic Music Generation.](https://arxiv.org/abs/2401.07532) In *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, pp. 941-945, 2024. 
 
 *   __Yaolong Ju__, Chunyang Xu, Yichen Guo, Jinhu Li, and Simon Lui. [Improving Automatic Singing Skill Evaluation with Timbral Features, Attention, and Singing Voice Separation.](https://ieeexplore.ieee.org/abstract/document/10219750) In *IEEE International Conference on Multimedia and Expo (ICME)*, pp. 612-617, 2023. 
